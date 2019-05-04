@@ -33,3 +33,11 @@ ssr://aGswNC5zcGVlZHBhbi0wOS54eXo6NDkwNDE6b3JpZ2luOmNoYWNoYTIwOnBsYWluOk1qSTFOak
 # joyo.ga节点9
 
 ss://Y2hhY2hhMjA6NDUxMjYzQHR3a3Ztamgua2J2bmowMC5sa2EudGVudm0uY29tOjYxMjUy#%E5%8F%B0%E6%B9%BE1
+
+# joyo.ga节点10
+
+ssr://aGswMi5zcGVlZHBhbi0wMi54eXo6NDkwNDE6b3JpZ2luOmNoYWNoYTIwOnBsYWluOk1qSTFOakV3Lz9vYmZzcGFyYW09JnJlbWFya3M9NmFhWjVyaXZRZyZncm91cD1NVEV4
+
+# joyo.ga节点11
+
+ssr://anAwMS5zcGVlZHBhbi0wNC54eXo6NDkwNDE6b3JpZ2luOmNoYWNoYTIwOnBsYWluOk1qSTFOakV3Lz9yZW1hcmtzPTVwZWw1cHlzTVE
